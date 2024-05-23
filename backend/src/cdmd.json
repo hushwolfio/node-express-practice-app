@@ -1,0 +1,436 @@
+{
+    "investigators": [
+        {
+            "investigator_id": 1,
+            "name": "Lord Adam Benchley",
+            "trait_id": 7,
+            "box_set_id": 1
+        },
+        {
+            "investigator_id": 2,
+            "name": "Ahmed Yasin",
+            "trait_id": 8,
+            "box_set_id": 1
+        },
+        {
+            "investigator_id": 3,
+            "name": "Borden",
+            "trait_id": 9,
+            "box_set_id": 1
+        },
+        {
+            "investigator_id": 4,
+            "name": "Elizabeth Ives",
+            "trait_id": 10,
+            "box_set_id": 1
+        },
+        {
+            "investigator_id": 5,
+            "name": "Fatima Safar",
+            "trait_id": 11,
+            "box_set_id": 1
+        },
+        {
+            "investigator_id": 6,
+            "name": "Sergeant Ian Welles",
+            "trait_id": 12,
+            "box_set_id": 1
+        },
+        {
+            "investigator_id": 7,
+            "name": "John Morgan",
+            "trait_id": 13,
+            "box_set_id": 1
+        },
+        {
+            "investigator_id": 8,
+            "name": "Rasputin",
+            "trait_id": 14,
+            "box_set_id": 1
+        },
+        {
+            "investigator_id": 9,
+            "name": "Sister Beth",
+            "trait_id": 15,
+            "box_set_id": 1
+        },
+        {
+            "investigator_id": 10,
+            "name": "The Kid",
+            "trait_id": 16,
+            "box_set_id": 1
+        }
+    ],
+    "traits": [
+        {
+            "trait_id": 1,
+            "name": "Arcane Master"
+        },
+        {
+            "trait_id": 2,
+            "name": "Brawling"
+        },
+        {
+            "trait_id": 3,
+            "name": "Marksman"
+        },
+        {
+            "trait_id": 4,
+            "name": "Stealth"
+        },
+        {
+            "trait_id": 5,
+            "name": "Swiftness"
+        },
+        {
+            "trait_id": 6,
+            "name": "Toughness"
+        },
+        {
+            "trait_id": 7,
+            "name": "Fueled by Madness"
+        },
+        {
+            "trait_id": 8,
+            "name": "Healing Prayer"
+        },
+        {
+            "trait_id": 9,
+            "name": "Savage"
+        },
+        {
+            "trait_id": 10,
+            "name": "Lucky"
+        },
+        {
+            "trait_id": 11,
+            "name": "Read the Omens"
+        },
+        {
+            "trait_id": 12,
+            "name": "Vengeance Obession"
+        },
+        {
+            "trait_id": 13,
+            "name": "Protector"
+        },
+        {
+            "trait_id": 14,
+            "name": "Unkillable"
+        },
+        {
+            "trait_id": 15,
+            "name": "High Strung"
+        },
+        {
+            "trait_id": 16,
+            "name": "Gate Manipulation"
+        }
+    ],
+    "investigator_traits": [
+        {
+            "investigator_id": 1,
+            "trait_id": 3
+        },
+        {
+            "investigator_id": 1,
+            "trait_id": 6
+        },
+        {
+            "investigator_id": 2,
+            "trait_id": 4
+        },
+        {
+            "investigator_id": 2,
+            "trait_id": 1
+        },
+        {
+            "investigator_id": 3,
+            "trait_id": 5
+        },
+        {
+            "investigator_id": 3,
+            "trait_id": 4
+        },
+        {
+            "investigator_id": 4,
+            "trait_id": 3
+        },
+        {
+            "investigator_id": 4,
+            "trait_id": 4
+        },
+        {
+            "investigator_id": 5,
+            "trait_id": 1
+        },
+        {
+            "investigator_id": 5,
+            "trait_id": 5
+        },
+        {
+            "investigator_id": 6,
+            "trait_id": 2
+        },
+        {
+            "investigator_id": 6,
+            "trait_id": 5
+        },
+        {
+            "investigator_id": 7,
+            "trait_id": 5
+        },
+        {
+            "investigator_id": 7,
+            "trait_id": 6
+        },
+        {
+            "investigator_id": 8,
+            "trait_id": 1
+        },
+        {
+            "investigator_id": 8,
+            "trait_id": 2
+        },
+        {
+            "investigator_id": 9,
+            "trait_id": 2
+        },
+        {
+            "investigator_id": 9,
+            "trait_id": 6
+        },
+        {
+            "investigator_id": 10,
+            "trait_id": 3
+        },
+        {
+            "investigator_id":10,
+            "trait_id": 1
+        }
+    ],
+    "enemies": [
+        {
+            "enemy_id": 1,
+            "name": "Cultist",
+            "health": 2,
+            "green_dice": 2,
+            "black_dice": 0,
+            "condition": null,
+            "is_monster": false,
+            "box_set_id": 1
+        },
+        {
+            "enemy_id": 2,
+            "name": "Fire Vampire",
+            "health": 4,
+            "green_dice": 1,
+            "black_dice": 2,
+            "condition": "",
+            "is_monster": true,
+            "box_set_id": 1
+        },
+        {
+            "enemy_id": 3,
+            "name": "Byakhee",
+            "health": 3,
+            "green_dice": 2,
+            "black_dice": 1,
+            "condition": "",
+            "is_monster": true,
+            "box_set_id": 1
+        },
+        {
+            "enemy_id": 4,
+            "name": "Ghoul",
+            "health": 2,
+            "green_dice": 2,
+            "black_dice": 1,
+            "condition": "",
+            "is_monster": true,
+            "box_set_id": 1
+        },
+        {
+            "enemy_id": 5,
+            "name": "Cthonian",
+            "health": 8,
+            "green_dice": 1,
+            "black_dice": 3,
+            "condition": "",
+            "is_monster": true,
+            "box_set_id": 1
+        },
+        {
+            "enemy_id": 6,
+            "name": "Deep One",
+            "health": 3,
+            "green_dice": 1,
+            "black_dice": 1,
+            "condition": "",
+            "is_monster": true,
+            "box_set_id": 1
+        },
+        {
+            "enemy_id": 7,
+            "name": "Hunting Horror",
+            "health": 4,
+            "green_dice": 0,
+            "black_dice": 3,
+            "condition": "",
+            "is_monster": true,
+            "box_set_id": 1
+        },
+        {
+            "enemy_id": 8,
+            "name": "Shoggoth",
+            "health": 10,
+            "green_dice": 2,
+            "black_dice": 2,
+            "condition": "",
+            "is_monster": true,
+            "box_set_id": 1
+        },
+        {
+            "enemy_id": 9,
+            "name": "Star Spawn",
+            "health": 7,
+            "green_dice": 0,
+            "black_dice": 3,
+            "condition": "When attacking or being attacked while in a R'lyeh space, add 2 sanity to the roll.",
+            "is_monster": true,
+            "box_set_id": 1
+        },
+        {
+            "enemy_id": 11,
+            "name": "Hastur Disciple",
+            "health": 2,
+            "green_dice": 3,
+            "black_dice": 0,
+            "condition": "If this deals you any wounds, choose one: - Take a Yellow Sign token. - Summon a Cultist in this space (it doesn't attack this turn).",
+            "is_monster": false,
+            "box_set_id": 1
+        }
+    ],
+    "old_ones": [{
+        "old_one_id": 1,
+        "name": "Cthulhu",
+        "enemy_id": 9,
+        "box_set_id": 1
+
+    },
+    {
+        "old_one_id": 2,
+        "name": "Hastur",
+        "enemy_id": 56,
+        "box_set_id": 1
+    }],
+    "episodes": [
+        {
+            "episode_id": 1,
+            "title": "Blasphemous Alchemy",
+            "episode_number": 1,
+            "box_set_id": 1
+        },
+        {
+            "episode_id": 2,
+            "title": "Tomes of Madness",
+            "episode_number": 2,
+            "box_set_id": 1
+        },
+        {
+            "episode_id": 3,
+            "title": "Danse Macabre",
+            "episode_number": 3,
+            "box_set_id": 1
+        },
+        {
+            "episode_id": 4,
+            "title": "Eldritch Idols",
+            "episode_number": 4,
+            "box_set_id": 1
+        },
+        {
+            "episode_id": 5,
+            "title": "Accursed Tide",
+            "episode_number": 5,
+            "box_set_id": 1
+        },
+        {
+            "episode_id": 6,
+            "title": "Unspeakable Hour",
+            "episode_number": 6,
+            "box_set_id": 1
+        }
+    ],
+    "enemies_episode": [
+        {
+            "enemy_id": 2,
+            "episode_id": 1
+        },
+        {
+            "enemy_id": 3,
+            "episode_id": 1
+        },
+        {
+            "enemy_id": 4,
+            "episode_id": 2
+        },
+        {
+            "enemy_id": 5,
+            "episode_id": 2
+        },
+        {
+            "enemy_id": 6,
+            "episode_id": 3
+        },
+        {
+            "enemy_id": 7,
+            "episode_id": 3
+        },
+        {
+            "enemy_id": 3,
+            "episode_id":4
+        },
+        {
+            "enemy_id": 8,
+            "episode_id": 4
+        },
+        {
+            "enemy_id": 6,
+            "episode_id": 5
+        },
+        {
+            "enemy_id": 5,
+            "episode_id": 5
+        },
+        {
+            "enemy_id": 4,
+            "episode_id": 6
+        },
+        {
+            "enemy_id": 2,
+            "episode_id": 6
+        }
+    ],
+    "box_sets": [
+        {
+        "box_set_id": 1,
+        "name": "Cthulhu: Death May Die"
+    },
+    {
+        "box_set_id": 2,
+        "name": "Cthulhu: Death May Die Season 2 Expansion"
+    },
+    {
+        "box_set_id": 3,
+        "name": "Cthulhu: Death May Die Black Goat of the Woods"
+    },
+    {
+        "box_set_id": 4,
+        "name": "Cthulhu: Death May Die Unspeakable Box"
+    },
+    {
+        "box_set_id": 5,
+        "name": "CThulhu: Death May Die Scarlett Promo"
+    }]
+}
